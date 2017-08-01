@@ -11,4 +11,4 @@ In the meantime AMD consumers have been screwed over because features such as HD
 
 ## Riiight
 
-This website was inspired by [istderberschonfertig.de](https://istderberschonfertig.de) which was made for the Berlin, Germany airport project. If you don't know it...look it up. It's funny as hell
+This website was inspired by [istderberschonfertig.de](http://istderberschonfertig.de) (with less design talent) which was made for the Berlin, Germany airport project. If you don't know it...look it up. It's funny as hell
