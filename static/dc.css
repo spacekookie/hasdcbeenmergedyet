@@ -1,0 +1,28 @@
+body {
+  background-image: url("img/dcbackground2.png");
+  background-color: #cccccc;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  color: white;
+}
+
+h1 {
+  font-size: 400px;
+}
+
+a {
+  color: #eeeeee;
+}
+
+i.padding {
+  padding-left: 12px;
+}
+
+div.footer {
+  position: absolute;
+  display: inline;
+  bottom: 0px;
+  padding-right: 2px;
+  padding-bottom: 10px;
+}
