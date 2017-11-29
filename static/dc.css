@@ -8,7 +8,19 @@ body {
 }
 
 h1 {
-  font-size: 400px;
+  font-size: 300px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.subtitle {
+  padding: 0px;
+  margin: 0px;
+  font-size: 64px;
 }
 
 a {
